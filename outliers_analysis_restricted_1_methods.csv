@@ -1,0 +1,250 @@
+game_name,target_value,methods_detected,all_reviews_number,price,rating,developer,methods_count,methods_list
+Call of Duty®: Warzone™,31,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",44778,0.0,2.88,Infinity Ward,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Call of Duty®: Modern Warfare® II,23,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",7162,69.99,4.06,Infinity Ward,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Call of Duty®: Modern Warfare® III,32,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",11959,69.99,3.3,Sledgehammer Games,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Overwatch® 2,23,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",342619,0.0,2.82,"Blizzard Entertainment, Inc.",4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+MOBILE SUIT GUNDAM BATTLE OPERATION 2,21,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",19982,0.0,3.53,Bandai Namco Forge Digitals Inc.,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Infinity Nikki,37,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",5250,0.0,3.58,Infold Games,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Erzurum,41,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",4029,0.89,1.1,Proximity Games,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Test Drive Unlimited Solar Crown,36,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",4821,24.99,2.17,KT Racing,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Tom Clancy's Splinter Cell Double Agent®,35,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",1570,7.99,3.71,Ubisoft Montreal,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Youtubers Life 3 - Stream Together!,43,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",244,10.49,1.6,UPLAY Online,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+iBLiS,43,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",558,1.0,0.99,Bulut ULU,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Cinemaster Cinema Simulator,39,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",102,3.49,0.67,Overload Games,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+SKYHILL: Black Mist,43,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",176,10.49,0.83,Mandragora,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Only Up !,24,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",138,3.99,0.42,WGI GAMING,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Moviehouse – The Film Studio Tycoon,31,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",212,6.29,0.66,Odyssey Studios,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Drunk or Dead 2,30,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",10,5.79,0.7,4 I Lab,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Dead Horde,37,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",432,2.49,1.08,DnS Development,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+CHERNOBYL - Death May Die,27,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",11,4.19,0.4,Philip Efimov,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Buried Alive: The Annihilation VR,20,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",15,7.99,0.39,The Two Ravens,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+Wooden House,38,"['IQR', 'ZScore', 'Modified_ZScore', 'Isolation_Forest']",147,0.89,1.24,GDNomaD,4,"IQR, ZScore, Modified_ZScore, Isolation_Forest"
+PAYDAY 3,42,"['IQR', 'ZScore', 'Modified_ZScore']",43900,22.99,2.57,Starbreeze Studios,3,"IQR, ZScore, Modified_ZScore"
+S.T.A.L.K.E.R.: Clear Sky - Enhanced Edition,43,"['IQR', 'ZScore', 'Modified_ZScore']",867,11.99,1.89,GSC Game World,3,"IQR, ZScore, Modified_ZScore"
+NecroCity,40,"['IQR', 'ZScore', 'Modified_ZScore']",52,9.99,2.95,Shift Games,3,"IQR, ZScore, Modified_ZScore"
+Garage Flipper,43,"['IQR', 'ZScore', 'Modified_ZScore']",44,7.99,1.75,Farmind Studio,3,"IQR, ZScore, Modified_ZScore"
+Speed Dates,41,"['IQR', 'ZScore', 'Modified_ZScore']",200,2.49,1.93,Icarus Interactive Entertainment,3,"IQR, ZScore, Modified_ZScore"
+Feudal Baron: King's Land,40,"['IQR', 'ZScore', 'Modified_ZScore']",45,10.49,1.38,Sim Farm S.A.,3,"IQR, ZScore, Modified_ZScore"
+Deus Ex: The Fall,36,"['IQR', 'ZScore', 'Modified_ZScore']",3595,4.99,2.68,Eidos Interactive Corp.,3,"IQR, ZScore, Modified_ZScore"
+Neon Blight,40,"['IQR', 'ZScore', 'Modified_ZScore']",70,9.49,1.36,Bleeding Tapes,3,"IQR, ZScore, Modified_ZScore"
+100 hidden cups,40,"['IQR', 'ZScore', 'Modified_ZScore']",370,0.89,3.13,Anatoliy Loginovskikh,3,"IQR, ZScore, Modified_ZScore"
+The Walking Dead: Destinies,44,"['ZScore', 'Isolation_Forest']",467,49.99,1.44,Flux Games,2,"ZScore, Isolation_Forest"
+Sonic the Hedgehog 4 - Episode I,44,"['ZScore', 'Isolation_Forest']",2289,9.99,3.38,SEGA,2,"ZScore, Isolation_Forest"
+MudRunner VR,44,"['ZScore', 'Isolation_Forest']",81,14.39,1.49,Saber Interactive Inc.,2,"ZScore, Isolation_Forest"
+Demolish & Build 3,44,['ZScore'],176,19.99,2.18,Demolish Games S.A.,1,ZScore
+Nifa's First Mission,44,['ZScore'],27,0.9,2.21,Ponkotsu Maker,1,ZScore
+Counter-Strike 2,86,['Isolation_Forest'],8803754,0.0,3.2,Valve,1,Isolation_Forest
+PUBG: BATTLEGROUNDS,59,['Isolation_Forest'],2554482,0.0,3.1,PUBG Corporation,1,Isolation_Forest
+Red Dead Redemption 2,92,['Isolation_Forest'],672140,59.99,4.32,Rockstar Games,1,Isolation_Forest
+Dota 2,81,['Isolation_Forest'],2497040,0.0,3.71,Valve,1,Isolation_Forest
+EA SPORTS FC™ 25,49,['Isolation_Forest'],67600,69.99,3.2,EA Canada,1,Isolation_Forest
+Project Zomboid,94,['Isolation_Forest'],284985,10.49,3.66,The Indie Stone,1,Isolation_Forest
+Rust,87,['Isolation_Forest'],1018247,18.99,3.2,Facepunch Studios,1,Isolation_Forest
+F1® 25,88,['Isolation_Forest'],394,59.99,3.8,Codemasters,1,Isolation_Forest
+Dead by Daylight,79,['Isolation_Forest'],578396,14.99,3.42,Behaviour Interactive Inc.,1,Isolation_Forest
+Football Manager 2024,90,['Isolation_Forest'],13439,39.99,3.43,Sports Interactive,1,Isolation_Forest
+HELLDIVERS™ 2,77,['Isolation_Forest'],730995,39.99,3.94,Arrowhead Game Studios,1,Isolation_Forest
+Apex Legends™,67,['Isolation_Forest'],993928,0.0,3.5,Respawn,1,Isolation_Forest
+Tom Clancy's Rainbow Six® Siege,84,['Isolation_Forest'],1188329,15.99,3.95,Ubisoft Montreal,1,Isolation_Forest
+eFootball™,47,['Isolation_Forest'],91979,0.0,3.75,KONAMI,1,Isolation_Forest
+Dying Light 2 Stay Human: Reloaded Edition,79,['Isolation_Forest'],145521,46.0,3.45,Techland,1,Isolation_Forest
+Total War: WARHAMMER III,72,['Isolation_Forest'],83564,49.99,3.88,CREATIVE ASSEMBLY,1,Isolation_Forest
+Clair Obscur: Expedition 33,95,['Isolation_Forest'],69546,34.99,4.41,Sandfall Interactive,1,Isolation_Forest
+Left 4 Dead 2,97,['Isolation_Forest'],732065,5.79,4.01,Valve,1,Isolation_Forest
+DayZ,77,['Isolation_Forest'],355731,59.99,3.48,Bohemia Interactive,1,Isolation_Forest
+VRChat,75,['Isolation_Forest'],239795,0.0,3.41,VRChat Inc.,1,Isolation_Forest
+Forza Horizon 5,88,['Isolation_Forest'],206719,32.78,3.98,Playground Games,1,Isolation_Forest
+NBA 2K25,59,['Isolation_Forest'],22284,69.99,3.5,Visual Concepts,1,Isolation_Forest
+ELDEN RING,92,['Isolation_Forest'],764598,39.99,4.2,"FromSoftware, Inc.",1,Isolation_Forest
+Warframe,87,['Isolation_Forest'],618991,0.0,3.79,Digital Extremes,1,Isolation_Forest
+Euro Truck Simulator 2,97,['Isolation_Forest'],657017,10.09,3.99,SCS Software,1,Isolation_Forest
+Knight Online,50,['Isolation_Forest'],10881,0.0,2.64,Noah System,1,Isolation_Forest
+Diablo® IV,71,['Isolation_Forest'],36156,49.99,3.7,"Blizzard Entertainment, Inc.",1,Isolation_Forest
+Assassin's Creed® Origins,85,['Isolation_Forest'],104597,47.99,4.01,Ubisoft Montreal,1,Isolation_Forest
+Hearts of Iron IV,91,['Isolation_Forest'],237186,29.99,3.7,Paradox Development Studio,1,Isolation_Forest
+Delta Force,63,['Isolation_Forest'],110910,0.0,3.03,Team Jade,1,Isolation_Forest
+Black Myth: Wukong,96,['Isolation_Forest'],834314,59.99,3.79,Game Science,1,Isolation_Forest
+Call of Duty®: Black Ops 6,45,['Isolation_Forest'],11721,69.99,3.6,Treyarch,1,Isolation_Forest
+Path of Exile 2,72,['Isolation_Forest'],126639,29.99,4.36,Grinding Gear Games,1,Isolation_Forest
+Monster Hunter Wilds,62,['Isolation_Forest'],132188,52.49,3.49,"CAPCOM Co., Ltd.",1,Isolation_Forest
+Assassin’s Creed Shadows,79,['Isolation_Forest'],19151,55.99,3.4,Ubisoft Quebec,1,Isolation_Forest
+Baldur's Gate 3,96,['Isolation_Forest'],669120,34.99,4.61,Larian Studios,1,Isolation_Forest
+Garry's Mod,96,['Isolation_Forest'],996654,5.79,3.98,Facepunch Studios,1,Isolation_Forest
+Destiny 2,79,['Isolation_Forest'],625322,0.0,3.4,Bungie,1,Isolation_Forest
+Total War: WARHAMMER II,93,['Isolation_Forest'],84200,49.99,3.97,CREATIVE ASSEMBLY,1,Isolation_Forest
+Valheim,94,['Isolation_Forest'],424593,13.19,3.93,Iron Gate AB,1,Isolation_Forest
+Team Fortress 2,89,['Isolation_Forest'],1160033,0.0,4.3,Valve,1,Isolation_Forest
+Metaphor: ReFantazio,91,['Isolation_Forest'],19617,69.99,3.7,ATLUS,1,Isolation_Forest
+Once Human,74,['Isolation_Forest'],129900,0.0,3.83,Starry Studio,1,Isolation_Forest
+No Man's Sky,81,['Isolation_Forest'],265781,59.99,2.94,Hello Games,1,Isolation_Forest
+Assetto Corsa,92,['Isolation_Forest'],117071,10.49,4.05,Kunos Simulazioni,1,Isolation_Forest
+BeamNG.drive,97,['Isolation_Forest'],295955,12.49,4.19,BeamNG,1,Isolation_Forest
+FANTASY LIFE i: The Girl Who Steals Time,92,['Isolation_Forest'],5041,49.99,3.83,LEVEL5 Inc.,1,Isolation_Forest
+S.T.A.L.K.E.R. 2: Heart of Chornobyl,81,['Isolation_Forest'],85952,42.99,3.06,GSC Game World,1,Isolation_Forest
+Stardew Valley,98,['Isolation_Forest'],754941,5.99,4.35,ConcernedApe,1,Isolation_Forest
+Europa Universalis IV,87,['Isolation_Forest'],88818,29.99,4.16,Paradox Development Studio,1,Isolation_Forest
+Cities: Skylines II,53,['Isolation_Forest'],51008,29.99,3.5,Colossal Order Ltd.,1,Isolation_Forest
+Sea of Thieves: 2025 Edition,89,['Isolation_Forest'],306357,27.99,3.29,Rare Ltd,1,Isolation_Forest
+Eternal Return,79,['Isolation_Forest'],64919,0.0,3.41,Nimble Neuron,1,Isolation_Forest
+7 Days to Die,88,['Isolation_Forest'],252541,20.99,3.31,The Fun Pimps,1,Isolation_Forest
+REMNANT II®,83,['Isolation_Forest'],40787,49.99,3.99,Gunfire Games,1,Isolation_Forest
+Red Dead Redemption,92,['Isolation_Forest'],9611,49.99,4.32,Rockstar Games,1,Isolation_Forest
+Farming Simulator 25,83,['Isolation_Forest'],21481,9.99,3.09,Giants Software,1,Isolation_Forest
+The First Berserker: Khazan,89,['Isolation_Forest'],11570,59.99,3.5,Neople,1,Isolation_Forest
+RimWorld,97,['Isolation_Forest'],177881,17.99,4.19,Ludeon Studios,1,Isolation_Forest
+Back 4 Blood,68,['Isolation_Forest'],51641,59.99,3.23,Turtle Rock Studios,1,Isolation_Forest
+Kingdom Come: Deliverance II,93,['Isolation_Forest'],75727,44.99,4.21,Warhorse Studios,1,Isolation_Forest
+Brawlhalla,81,['Isolation_Forest'],386127,0.0,3.41,Blue Mammoth Games,1,Isolation_Forest
+The Forest,95,['Isolation_Forest'],533054,10.49,3.61,Endnight Games Ltd,1,Isolation_Forest
+Hunt: Showdown 1896,73,['Isolation_Forest'],192512,14.99,3.0,Crytek,1,Isolation_Forest
+Assassin's Creed Valhalla,70,['Isolation_Forest'],28623,47.99,3.3,Ubisoft Montreal,1,Isolation_Forest
+Call of Duty®,55,['Isolation_Forest'],387000,69.99,3.95,Treyarch,1,Isolation_Forest
+The Elder Scrolls V: Skyrim Special Edition,94,['Isolation_Forest'],188895,23.99,4.16,Bethesda Game Studios,1,Isolation_Forest
+Satisfactory,97,['Isolation_Forest'],195661,18.99,4.09,Coffee Stain Studios,1,Isolation_Forest
+Phasmophobia,96,['Isolation_Forest'],625568,10.49,3.54,Kinetic Games,1,Isolation_Forest
+RIDE 4,83,['Isolation_Forest'],9275,39.99,4.5,Milestone S.r.l.,1,Isolation_Forest
+Total War: EMPIRE – Definitive Edition,89,['Isolation_Forest'],19542,19.99,4.3,CREATIVE ASSEMBLY,1,Isolation_Forest
+Terraria,97,['Isolation_Forest'],1120735,5.79,4.2,Re-Logic,1,Isolation_Forest
+God of War,96,['Isolation_Forest'],110701,49.99,4.11,Santa Monica Studio,1,Isolation_Forest
+Call of Duty®: Black Ops Cold War,80,['Isolation_Forest'],18324,59.99,3.31,Treyarch,1,Isolation_Forest
+MapleStory,63,['Isolation_Forest'],13837,0.0,3.24,NEXON Korea Corporation,1,Isolation_Forest
+Battlefield™ 2042,49,['Isolation_Forest'],233767,59.99,2.21,DICE,1,Isolation_Forest
+FINAL FANTASY VII REBIRTH,77,['Isolation_Forest'],14092,54.99,3.96,Square Enix,1,Isolation_Forest
+Cities: Skylines,92,['Isolation_Forest'],206409,17.99,3.99,Colossal Order Ltd.,1,Isolation_Forest
+Microsoft Flight Simulator 40th Anniversary Edition,79,['Isolation_Forest'],62842,59.99,4.1,Asobo Studio,1,Isolation_Forest
+WWE 2K25,67,['Isolation_Forest'],1666,59.99,4.5,Visual Concepts,1,Isolation_Forest
+Grand Theft Auto V Enhanced,69,['Isolation_Forest'],50273,29.99,4.0,Rockstar North,1,Isolation_Forest
+Don't Starve Together,95,['Isolation_Forest'],341146,6.59,3.66,Klei Entertainment,1,Isolation_Forest
+Sid Meier's Civilization VII,48,['Isolation_Forest'],31852,69.99,3.5,Firaxis Games,1,Isolation_Forest
+The Sims™ 4,87,['Isolation_Forest'],170112,0.0,3.67,Maxis,1,Isolation_Forest
+MotoGP™24,83,['Isolation_Forest'],696,49.99,4.19,Milestone S.r.l.,1,Isolation_Forest
+March of Empires,64,['Isolation_Forest'],1681,0.0,3.75,Gameloft,1,Isolation_Forest
+Fallout 4,83,['Isolation_Forest'],261524,11.99,3.67,Bethesda Game Studios,1,Isolation_Forest
+Arma 3,90,['Isolation_Forest'],215650,37.99,3.85,Bohemia Interactive,1,Isolation_Forest
+Lethal Company,97,['Isolation_Forest'],392348,5.79,3.84,Zeekerss,1,Isolation_Forest
+Hollow Knight,97,['Isolation_Forest'],369798,5.99,4.37,Team Cherry,1,Isolation_Forest
+Business Tour - Board Game with Online Multiplayer,60,['Isolation_Forest'],76716,0.0,2.2,8Floor,1,Isolation_Forest
+Starfield,58,['Isolation_Forest'],108273,41.99,3.07,Bethesda Game Studios,1,Isolation_Forest
+People Playground,98,['Isolation_Forest'],263759,5.79,3.61,mestiez,1,Isolation_Forest
+STAR WARS™: The Old Republic™,89,['Isolation_Forest'],67636,0.0,3.83,Broadsword,1,Isolation_Forest
+DARK SOULS™ III,94,['Isolation_Forest'],262157,39.99,4.33,"FromSoftware, Inc.",1,Isolation_Forest
+Total War: PHARAOH,64,['Isolation_Forest'],3345,24.99,3.23,CREATIVE ASSEMBLY,1,Isolation_Forest
+Geometry Dash,93,['Isolation_Forest'],391958,2.99,4.01,RobTop Games,1,Isolation_Forest
+NBA 2K Playgrounds 2,80,['Isolation_Forest'],1375,29.99,2.92,Saber Interactive,1,Isolation_Forest
+PowerWash Simulator,97,['Isolation_Forest'],45533,19.99,4.0,FuturLab,1,Isolation_Forest
+XCOM® 2,85,['Isolation_Forest'],73704,59.99,4.17,Firaxis Games,1,Isolation_Forest
+Counter-Strike,96,['Isolation_Forest'],160050,5.79,3.89,Valve,1,Isolation_Forest
+Total War: ROME II - Emperor Edition,86,['Isolation_Forest'],50232,26.99,3.6,CREATIVE ASSEMBLY,1,Isolation_Forest
+Microsoft Flight Simulator 2024,46,['Isolation_Forest'],13090,69.99,4.0,Asobo Studio,1,Isolation_Forest
+Rev to Vertex,50,['Isolation_Forest'],30,23.8,2.29,PLUTONIZATION,1,Isolation_Forest
+No More Room in Hell 2,52,['Isolation_Forest'],9110,14.99,1.0,Torn Banner Studios,1,Isolation_Forest
+Assetto Corsa Competizione,92,['Isolation_Forest'],26223,18.99,4.07,Kunos Simulazioni,1,Isolation_Forest
+The Binding of Isaac: Rebirth,97,['Isolation_Forest'],310015,14.99,4.2,"Nicalis, Inc.",1,Isolation_Forest
+Path of Exile,89,['Isolation_Forest'],234955,0.0,3.85,Grinding Gear Games,1,Isolation_Forest
+Mount & Blade: Warband,97,['Isolation_Forest'],130799,7.99,4.17,TaleWorlds Entertainment,1,Isolation_Forest
+DARK SOULS™: REMASTERED,91,['Isolation_Forest'],83312,24.99,4.31,QLOC,1,Isolation_Forest
+DiRT Rally 2.0,89,['Isolation_Forest'],35503,19.99,3.83,Codemasters,1,Isolation_Forest
+ARK: Survival Evolved,84,['Isolation_Forest'],547780,14.99,3.52,Studio Wildcard,1,Isolation_Forest
+Getting Over It with Bennett Foddy,82,['Isolation_Forest'],69768,7.99,3.27,Bennett Foddy,1,Isolation_Forest
+F1® 24,74,['Isolation_Forest'],13344,69.99,3.5,Codemasters,1,Isolation_Forest
+Life is Strange - Episode 1,96,['Isolation_Forest'],169098,0.0,4.2,DONTNOD Entertainment,1,Isolation_Forest
+Portal 2,98,['Isolation_Forest'],359524,5.79,4.41,Valve,1,Isolation_Forest
+Persona 5 Royal,96,['Isolation_Forest'],68290,59.99,4.34,ATLUS,1,Isolation_Forest
+The Hundred Line -Last Defense Academy-,89,['Isolation_Forest'],3937,59.99,3.53,Too Kyo Games,1,Isolation_Forest
+Total War: MEDIEVAL II – Definitive Edition,95,['Isolation_Forest'],24825,19.99,4.19,CREATIVE ASSEMBLY,1,Isolation_Forest
+Shin Megami Tensei V: Vengeance,93,['Isolation_Forest'],5856,59.99,4.23,ATLUS,1,Isolation_Forest
+SpongeBob SquarePants™: The Patrick Star Game,82,['Isolation_Forest'],141,39.99,2.3,PHL Collective,1,Isolation_Forest
+TopSpin 2K25,54,['Isolation_Forest'],1434,19.99,4.0,Hangar 13,1,Isolation_Forest
+Counter-Strike: Source,96,['Isolation_Forest'],126155,5.79,3.87,Valve,1,Isolation_Forest
+Hero's Land,55,['Isolation_Forest'],43720,0.0,2.14,钢之直男工作室,1,Isolation_Forest
+Among Us,92,['Isolation_Forest'],615937,2.49,3.58,Innersloth,1,Isolation_Forest
+Combat Arms: the Classic,64,['Isolation_Forest'],1919,0.0,2.5,"VALOFE, NEXON",1,Isolation_Forest
+Darkest Dungeon®,91,['Isolation_Forest'],129398,12.49,3.92,Red Hook Studios,1,Isolation_Forest
+Unturned,91,['Isolation_Forest'],555198,0.0,3.35,Smartly Dressed Games,1,Isolation_Forest
+PAYDAY 2,90,['Isolation_Forest'],435475,9.99,3.51,OVERKILL - a Starbreeze Studio.,1,Isolation_Forest
+Forza Motorsport,47,['Isolation_Forest'],9389,35.23,3.83,Turn 10,1,Isolation_Forest
+Ship Simulator Extremes,49,['Isolation_Forest'],1677,11.99,3.31,VStep,1,Isolation_Forest
+River City: Rival Showdown,49,['Isolation_Forest'],156,24.99,4.5,Arc System Works,1,Isolation_Forest
+Assassin's Creed® Odyssey,89,['Isolation_Forest'],156220,47.99,4.11,Ubisoft Quebec,1,Isolation_Forest
+Kerbal Space Program,95,['Isolation_Forest'],103260,17.99,4.19,Squad,1,Isolation_Forest
+Half-Life,96,['Isolation_Forest'],104842,5.79,4.21,Valve,1,Isolation_Forest
+Bloons TD 6,97,['Isolation_Forest'],312458,7.79,3.76,Ninja Kiwi,1,Isolation_Forest
+The Legend of Heroes: Trails through Daybreak II,90,['Isolation_Forest'],370,42.99,3.35,Nihon Falcom,1,Isolation_Forest
+Call of Duty®: Modern Warfare®,79,['Isolation_Forest'],19735,59.99,3.33,Infinity Ward,1,Isolation_Forest
+Hell Let Loose,84,['Isolation_Forest'],90360,23.99,3.19,Team17,1,Isolation_Forest
+Sid Meier’s Civilization® VI,87,['Isolation_Forest'],254002,59.99,3.9,Firaxis Games,1,Isolation_Forest
+PAW Patrol World,92,['Isolation_Forest'],75,39.99,3.75,3DClouds,1,Isolation_Forest
+Imperiums: Greek Wars,84,['Isolation_Forest'],423,14.99,1.7,Kube Games,1,Isolation_Forest
+Ratty Catty,67,['Isolation_Forest'],1124,2.49,3.5,Kerim Kumbasar,1,Isolation_Forest
+Portal,98,['Isolation_Forest'],153046,5.79,4.31,Valve,1,Isolation_Forest
+Sid Meier's Civilization® V,95,['Isolation_Forest'],123858,29.99,3.17,Firaxis Games,1,Isolation_Forest
+Stronghold Crusader HD (2012),97,['Isolation_Forest'],16448,5.79,4.09,FireFly Studios,1,Isolation_Forest
+DOOM + DOOM II,96,['Isolation_Forest'],21657,6.99,4.16,id Software,1,Isolation_Forest
+Half-Life 2,97,['Isolation_Forest'],180435,5.79,4.36,Valve,1,Isolation_Forest
+Need for Speed™ Unbound,61,['Isolation_Forest'],39817,69.99,3.8,Criterion Games,1,Isolation_Forest
+The Ouroboros King,84,['Isolation_Forest'],377,5.79,1.5,Oriol Cosp Games,1,Isolation_Forest
+Biker Garage: Mechanic Simulator,68,['Isolation_Forest'],430,24.99,1.69,BeardedBrothers.games,1,Isolation_Forest
+DARK SOULS™ II: Scholar of the First Sin,84,['Isolation_Forest'],74109,24.99,3.27,"FromSoftware, Inc.",1,Isolation_Forest
+Teenage Mutant Ninja Turtles: Mutants Unleashed,54,['Isolation_Forest'],77,39.99,2.75,AHEARTFULOFGAMES,1,Isolation_Forest
+MotoGP™21,82,['Isolation_Forest'],1280,24.99,4.27,Milestone S.r.l.,1,Isolation_Forest
+League of Angels-Heaven's Fury,58,['Isolation_Forest'],754,0.0,3.5,"CHENGDU DREAMCALLER TECHNOLOGY CO.,LTD",1,Isolation_Forest
+XCOM: Enemy Unknown,93,['Isolation_Forest'],38588,29.99,4.14,Firaxis Games,1,Isolation_Forest
+Barbie Project Friendship™,72,['Isolation_Forest'],18,39.99,1.0,Xaloc Studios,1,Isolation_Forest
+EVE Online,73,['Isolation_Forest'],36339,4.99,3.95,CCP,1,Isolation_Forest
+Farming Simulator 22,92,['Isolation_Forest'],62824,19.99,3.25,Giants Software,1,Isolation_Forest
+Freestyle 2: Street Basketball,72,['Isolation_Forest'],12641,0.0,3.43,JOYCITY,1,Isolation_Forest
+Monster Hunter: World,89,['Isolation_Forest'],296948,17.99,4.15,"CAPCOM Co., Ltd.",1,Isolation_Forest
+Monster Energy Supercross - The Official Videogame 6,68,['Isolation_Forest'],407,49.99,3.5,Milestone S.r.l.,1,Isolation_Forest
+Amazing Cultivation Simulator,86,['Isolation_Forest'],18598,24.99,4.0,GSQ Games,1,Isolation_Forest
+WEBFISHING,97,['Isolation_Forest'],53511,2.99,2.08,lamedeveloper,1,Isolation_Forest
+Marvel's Midnight Suns,82,['Isolation_Forest'],15069,79.99,3.85,Firaxis Games,1,Isolation_Forest
+Might & Magic: Heroes VI,46,['Isolation_Forest'],8174,7.99,3.34,Blackhole,1,Isolation_Forest
+Call of Duty®: Black Ops III,87,['Isolation_Forest'],140275,59.99,3.16,Treyarch,1,Isolation_Forest
+Two Worlds II HD,60,['Isolation_Forest'],3768,12.49,4.33,Reality Pump Studios,1,Isolation_Forest
+Hydroneer,86,['Isolation_Forest'],23880,14.99,3.0,Foulball Hangover,1,Isolation_Forest
+Might & Magic® Heroes® VII,54,['Isolation_Forest'],6397,23.99,2.74,Limbic Entertainment,1,Isolation_Forest
+Cookie Clicker,96,['Isolation_Forest'],75010,2.99,3.75,Orteil,1,Isolation_Forest
+Chillquarium,92,['Isolation_Forest'],6423,3.59,1.5,Ben Reber,1,Isolation_Forest
+WRC 7 FIA World Rally Championship,80,['Isolation_Forest'],9246,12.99,3.71,KT Racing,1,Isolation_Forest
+Half-Life: Opposing Force,95,['Isolation_Forest'],22149,2.99,3.89,Gearbox Software,1,Isolation_Forest
+Crusader Kings II,90,['Isolation_Forest'],72060,0.0,4.14,Paradox Development Studio,1,Isolation_Forest
+Draw & Guess,83,['Isolation_Forest'],30179,2.99,2.75,Acureus,1,Isolation_Forest
+PAC-MAN™ Championship Edition DX+,96,['Isolation_Forest'],4620,6.49,4.3,"Mine Loader Software Co., Ltd.",1,Isolation_Forest
+Flyout,85,['Isolation_Forest'],1654,10.0,0.98,Stonext Games,1,Isolation_Forest
+WWE 2K24,75,['Isolation_Forest'],5640,59.99,3.88,Visual Concepts,1,Isolation_Forest
+SimRail - The Railway Simulator,84,['Isolation_Forest'],4257,34.99,3.49,SimRail S.A.,1,Isolation_Forest
+Snacko,97,['Isolation_Forest'],395,12.49,4.77,Bluecurse Studios,1,Isolation_Forest
+The Elder Scrolls III: Morrowind® Game of the Year Edition,95,['Isolation_Forest'],20409,8.99,4.27,Bethesda Game Studios,1,Isolation_Forest
+Quake III Arena,95,['Isolation_Forest'],3148,8.99,3.96,id Software,1,Isolation_Forest
+Ricochet,81,['Isolation_Forest'],4338,2.99,3.0,Valve,1,Isolation_Forest
+Total War: THREE KINGDOMS,82,['Isolation_Forest'],59688,49.99,3.99,CREATIVE ASSEMBLY,1,Isolation_Forest
+Catan Universe,48,['Isolation_Forest'],16029,0.0,1.3,Client/Frontend: Endava / Backend: SuperNimbus,1,Isolation_Forest
+Victoria I Complete,71,['Isolation_Forest'],214,5.99,2.87,Paradox Development Studio,1,Isolation_Forest
+Quake,96,['Isolation_Forest'],12177,5.99,4.06,id Software,1,Isolation_Forest
+Lootun,94,['Isolation_Forest'],708,2.99,3.5,ArrowSoftGames,1,Isolation_Forest
+GemCraft - Chasing Shadows,95,['Isolation_Forest'],3437,5.79,2.96,Game in a Bottle,1,Isolation_Forest
+Take Off - The Flight Simulator,47,['Isolation_Forest'],123,4.99,1.55,Jujubee S.A.,1,Isolation_Forest
+Commandos: Behind Enemy Lines,89,['Isolation_Forest'],3258,4.99,3.93,Pyro Studios,1,Isolation_Forest
+Train Valley,89,['Isolation_Forest'],2514,4.99,4.4,Alexey Davydov,1,Isolation_Forest
+TIS-100,97,['Isolation_Forest'],3170,3.99,4.0,Zachtronics,1,Isolation_Forest
+Blood II: The Chosen + Expansion,48,['Isolation_Forest'],540,4.99,3.31,Monolith Productions,1,Isolation_Forest
+MX vs ATV Legends,77,['Isolation_Forest'],2350,18.99,4.07,Rainbow Studios,1,Isolation_Forest
+Outlaws + A Handful of Missions,94,['Isolation_Forest'],660,3.59,3.9,LucasArts,1,Isolation_Forest
+Pixel Car,52,['Isolation_Forest'],23,0.89,1.72,azimuth team,1,Isolation_Forest
+Cossacks: Back to War,88,['Isolation_Forest'],2441,2.99,4.05,GSC Game World,1,Isolation_Forest
+Cossacks II: Battle for Europe,80,['Isolation_Forest'],938,2.99,3.98,GSC Game World,1,Isolation_Forest
+AdVenture Capitalist,87,['Isolation_Forest'],59117,0.0,3.04,Hyper Hippo Games,1,Isolation_Forest
+The Witcher 3: Wild Hunt,96,['Isolation_Forest'],761599,29.99,4.72,CD PROJEKT RED,1,Isolation_Forest
+Gotcha Racing 2nd,57,['Isolation_Forest'],21,9.99,0.82,ARC SYSTEM WORKS,1,Isolation_Forest
+Coloring Pixels,96,['Isolation_Forest'],7906,0.0,3.76,ToastieLabs,1,Isolation_Forest
+Deus Ex: Game of the Year Edition,94,['Isolation_Forest'],12725,3.49,4.4,Ion Storm,1,Isolation_Forest
+Dice Legacy,67,['Isolation_Forest'],865,11.49,4.5,DESTINYbit,1,Isolation_Forest
+Latte Stand Tycoon,56,['Isolation_Forest'],23,2.49,1.1,Inner Realm Studios,1,Isolation_Forest
+Tourist Bus Simulator,65,['Isolation_Forest'],2370,14.99,0.92,TML-Studios,1,Isolation_Forest
+NVL,65,['Isolation_Forest'],392,1.49,0.54,CUTE ANIME GIRLS,1,Isolation_Forest
+Thief™ Gold,92,['Isolation_Forest'],3161,3.49,4.3,Looking Glass Studios,1,Isolation_Forest
+Undawn,54,['Isolation_Forest'],6344,0.0,0.75,Lightspeed Studios,1,Isolation_Forest
+Minimalism,71,['Isolation_Forest'],2127,0.89,3.0,PixelMouse,1,Isolation_Forest
+Achievements printer,89,['Isolation_Forest'],1229,0.89,1.75,Easy game,1,Isolation_Forest
+Banana,82,['Isolation_Forest'],89504,0.0,1.08,Sky,1,Isolation_Forest
+NecroWorm,69,['Isolation_Forest'],84,2.99,1.33,postpunkpl,1,Isolation_Forest
