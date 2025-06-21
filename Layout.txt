@@ -1,0 +1,53 @@
+Joaco: 
+
+  - Imports
+  - Environment version
+- Carga de los dataset
+  - Carga del dataset desde un archivo .csv que obtuvimos del sitio de Kaggle
+  - Arreglo del dataset
+- EDA
+  - Funciones auxiliares para el EDA
+  - Descripción del dataset ventas_juegos_steam.csv
+  - Exploración de las variables categóricas
+  - Exploración de las variables numéricas
+  - Análisis Estadístico Descriptivo
+  - Análisis más profundo de las variables numéricas
+- Visualizaciones del EDA
+  - Histograma y Boxplot de la distribución de Precios
+  - Estadísticas de precios
+  - Juegos gratuitos vs pagos
+  - Análisis de Calificaciones, me gusta y Reviews
+  - Análisis de correlación entre rating y reviews
+  - Análisis de Desarrolladores
+  - Análisis de géneros más populares
+  - Visualización de top géneros
+  - Análisis de sistemas operativos soportados
+  - Análisis de Fechas de Lanzamiento
+  - Análisis de Duración y Descargas
+  - Estadísticas de duración y descargas
+  - Correlación entre duración y descargas
+- Análisis de Relaciones entre Variables
+  - Matriz de Correlación
+  - Análisis de Precio vs Calificación
+
+
+Mati: 
+
+- Imports
+- Carga de los dataset
+  - Verificación de nulos
+- Selección de features
+  - Variables numéricas
+    - Rating
+    - Demás variables numéricas
+  - Variables categóricas
+    - Fechas
+    - Lenguajes
+    - Developer
+    - User defined tags
+    - Supported OS
+    - Other features
+  - Conclusiones sobre las features categóricas
+
+
+  
